@@ -1,5 +1,5 @@
-GitHub Tutorial
-===================
+Git Visualization Tutorial: Manipulating the Local Repo
+=======================================================
 -------------
 
 
