@@ -14,7 +14,9 @@ This tutorial will focus on manipulating the local repository as most students u
 ### Commit
 As the majority of the readers may know, committing to a repository is essentially taking a snapshot of the current state of the directory and recording it in the repository.  Imagine you have just cloned a repository which will be depicted as the `R0` circle below.
 
-<img src="https://github.com/mliao95/MShistory/blob/master/Images/1.JPG" align="left" height="100" width="150" >
+<img src="https://github.com/mliao95/MShistory/blob/master/Images/1.JPG" align="left" height="100" width="150" ><br><br>
+<br>
+<br>
 
 When we have made changes to files in the directory and want to update our local repository, we type `git commit <filename>` to commit one file or `git commit -a` to commit all tracked files.  After committing to the repo, we create another circle, `R1`, which contains all the changes we made from `R0`.
 
